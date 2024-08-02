@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+e01f7d7eba0a9ec7ddcc4c7ce717c0ceb9211fbd refs/remotes/origin/dev
+251c2ef9f0f0ad26bbe8cbb31ed96949bd7ef65a refs/remotes/origin/master
+835397d08d90aed1cab018904f6c34d6cea606e7 refs/remotes/origin/pr-100
+aa2407c4129a8de78648f665a44a4cd65a1de2de refs/remotes/origin/pr-gh-integration
+239d4584a25d657bc3798ac354ef519ee6774129 refs/remotes/origin/pr-gh-integration-1
+f8e73b9fa7617dc92b5bb1601d3ee81a203511fc refs/remotes/origin/test-pr
+39c964b32dfd992892d4a678cfa33c7c19202c0b refs/remotes/origin/test-pr-2
+56a0c6ca0aceebbb8c4825c0b704c244d3a7854b refs/remotes/origin/upgrade-webapp-dotnet-3-1
